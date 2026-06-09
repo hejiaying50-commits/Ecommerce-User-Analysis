@@ -158,7 +158,7 @@ Ecommerce-User-Analysis
 
 ## 可视化展示
 
-项目输出了以下可视化结果，可用于 GitHub 展示和简历投递：
+项目输出了以下可视化结果：
 
 * 用户行为分布图：`screenshots/behavior.png`
 * 用户活跃时间图：`screenshots/hourly.png`
@@ -175,9 +175,7 @@ Ecommerce-User-Analysis
 * 使用 SQL 输出常用分析脚本，支持行为分布、DAU、热门商品和活跃时段分析。
 * 使用 Power BI 搭建运营分析看板，实现核心指标可视化监控。
 
-## 简历写法
 
-电商用户行为分析与转化漏斗优化项目  
 技术栈：Python / Pandas / SQL / Power BI / Excel
 
 * 基于淘宝公开用户行为数据集，对 500 万+ 用户行为记录完成清洗、抽样和时间字段处理。
